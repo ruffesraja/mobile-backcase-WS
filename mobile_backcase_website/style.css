@@ -1,0 +1,28 @@
+.element{
+    width:21.2vw;
+    /*height:33vw;*/
+    padding:20px;
+    text-align: center;
+    background-color: antiquewhite;
+}
+.section{
+    display:flex;
+}
+img{
+    width:21.2vw;
+    height:30vw;
+    border-radius: 10px;
+    padding:10px;
+}
+body{
+    background-color: aquamarine;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+button{
+    width:15vw;
+    height:30px;
+    background-color: greenyellow;
+    font-size: 1.2em;
+}
